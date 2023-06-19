@@ -70,7 +70,7 @@ header p, label{
     color: rgb(136, 133, 133);
 }
 header h3:nth-child(2){
-    font-size:1.22rem;
+    font-size:1.20rem;
    font-weight: 600;
 }
 header h3:nth-child(1){
